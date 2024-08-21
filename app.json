@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "crypto",
+    "slug": "crypto",
+    "version": "1.0.0",
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./src/assets/fonts/Roboto-Black.ttf"
+          ]
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "dc50cf7a-40fa-4d81-93e5-8b09bf898951"
+      }
+    }
+  },
+  "name": "crypto"
+}
